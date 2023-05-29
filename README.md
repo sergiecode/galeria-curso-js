@@ -27,8 +27,7 @@ Para utilizar esta galería en tu proyecto, sigue estos pasos:
     
 5.  Para cada imagen en la galería, agrega un evento de clic que invoque la función `ampliarImagen` con la URL de la imagen correspondiente.
     
-
-    <img src="ruta-de-la-imagen.jpg" onclick="ampliarImagen('ruta-de-la-imagen.jpg')" alt="Descripción de la imagen">
+    `<img src="ruta-de-la-imagen.jpg" onclick="ampliarImagen('ruta-de-la-imagen.jpg')" alt="Descripción de la imagen">`
 
 Reemplaza `'ruta-de-la-imagen.jpg'` con la URL de la imagen que deseas ampliar.
 
