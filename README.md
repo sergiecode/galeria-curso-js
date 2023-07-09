@@ -1,3 +1,7 @@
+## Link al curso completo de Javascript en Youtube:
+[VIDEO CURSO GRATIS COMPLETO: JavaScript Desde Cero por Sergie Code](https://youtu.be/N8Xt5rP_DUo)
+
+
 # Galería Simple con JavaScript
 
 Este repositorio contiene una galería simple implementada con HTML, CSS y JavaScript.
